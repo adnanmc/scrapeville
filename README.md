@@ -1,24 +1,12 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+    SCRAPVILLE
 
 
-Welcome to your Rails project on Cloud9 IDE!
+Welcome to SCRAPVILLE!
 
-To get started, just do the following:
+This is a rails app scraping news from google news site and displaying selected information.
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://scrapeville-adnanmc.c9users.io/).
-
-Happy coding!
-The Cloud9 IDE team
+This app is intended for educational purpose only and do not claim ownership of the information displayed at any time.
 
 
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Visit https://svilleapp.herokuapp.com/ for demo of this repo
